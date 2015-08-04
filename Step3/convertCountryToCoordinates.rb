@@ -6,7 +6,6 @@
 #https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
 #(If you have problem installing the gem of mongo try: gem update --system 2.3.0)
 #For problems with bson_ext in windows: http://stackoverflow.com/questions/26092541/windows-rails-error-installing-bson-ext
-#Install Google maps API https://developers.google.com/api-client-library/ruby/apis/coordinate/v1
 
 require 'mongo'
 require 'json'
