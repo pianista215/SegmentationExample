@@ -4,10 +4,10 @@ actualId = 0
 productDicc = []
 
 File.open("CSVInKeys.csv", "w") do |f|
-	CSV.foreach('procesadoExcel.csv') do |row|
+	CSV.foreach('NYC.csv') do |row|
 		#Ignore head
 		if actualId == 0
-			f.puts(row[0] + "," + row[1] + "," + row[2] + "," + row[3] + "," + row[4] + "," + row[5])
+			f.puts(row[0] + "," + row[1] + "," + row[2] + "," + row[3] + "," + row[4])
 		else
 			rowStr = actualId.to_s + ","
 			
@@ -21,7 +21,7 @@ File.open("CSVInKeys.csv", "w") do |f|
 			end
 
 			#Maintain the rest of values
-			rowStr += "," + row[2] + "," + row[3] + "," + row[4] + "," + row[5]
+			rowStr += "," + row[2] + "," + row[3] + "," + row[4]
 			f.puts(rowStr)
 		end
 		actualId = actualId+1
