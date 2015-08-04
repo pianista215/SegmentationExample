@@ -1,0 +1,1 @@
+mongoimport -d segmentationExample -c initial --type csv --file ..\Step1\CSVInKeys.csv --headerline
