@@ -25,6 +25,8 @@ mongo_client = Mongo::Client.new([ '127.0.0.1:27017' ], :database => 'segmentati
 #Remove old data
 mongo_client[:geopositionated].drop()
 
+countries_found = []
+
 #Create each entry with the coordinates
 mongo_client[:initial].find().each do |document|
 	country = countriesCoords[document["COUNTRY"]]
@@ -41,6 +43,17 @@ mongo_client[:initial].find().each do |document|
 				"lat" => country[0],
 				"lon" => country[1]
 		})
+	end
+	if !countries_found.include?country
+		countries_found.push(country)
+	end
+end
+
+#Export present countries
+countries_found.sort!{ |a,b| a[2] <=> b[2]}
+File.open("countriesPresent.txt", "w") do |f|
+	countries_found.each do |c|
+		f.puts(c[0].to_s + "," + c[1].to_s + "," + c[2].to_s)
 	end
 end
 
