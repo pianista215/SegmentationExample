@@ -46,6 +46,7 @@ centroids_ids = (1..different_examples).to_a.shuffle.shuffle.slice(0..CLUSTERS_N
 
 #Retrieve one training example that have the data of the different example selected
 idx = 0
+idx_segment = 1
 centroids = []
 rows.each do |document|
 	if centroids_ids.include? idx
@@ -53,8 +54,10 @@ rows.each do |document|
 			"adults" => document["_id"]["adults"],
 			"children" => document["_id"]["children"],
 			"lat" => document["_id"]["lat"],
-			"lon" => document["_id"]["lon"]
+			"lon" => document["_id"]["lon"],
+			"segment" => idx_segment
 		})
+		idx_segment = idx_segment + 1 
 	end
 	idx = idx + 1 
 end
@@ -65,6 +68,7 @@ centroids.each do |centroid|
 			"adults" => centroid["adults"],
 			"children" => centroid["children"],
 			"lat" => centroid["lat"],
-			"lon" => centroid["lon"]
+			"lon" => centroid["lon"],
+			"segment" => centroid["segment"]
 	})
 end
