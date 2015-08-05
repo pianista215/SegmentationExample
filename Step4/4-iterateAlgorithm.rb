@@ -83,6 +83,10 @@ end
 			end
 		end
 
+		if examples_count == 0
+			raise "Cluster without elements, may be you should reduce your number of clusters, or assign news radomly using the 3 script"
+		end
+
 		centroid["adults"] = adults_total / examples_count
 		centroid["children"] = children_total / examples_count
 		centroid["lat"] = lat_total / examples_count
