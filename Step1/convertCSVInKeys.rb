@@ -28,3 +28,12 @@ File.open("CSVInKeys.csv", "w") do |f|
 	end
 end
 
+#Print the equivalences if you want to reassemble later
+File.open("equivalences.csv","w") do |f|
+	idx = 0
+	productDicc.each do |product|
+		f.puts(idx.to_s+","+product)
+		idx = idx + 1
+	end
+end
+
