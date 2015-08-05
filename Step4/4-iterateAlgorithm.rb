@@ -102,10 +102,10 @@ end
 centroids.each do |centroid|
 	mongo_client[:segmented].find(:_id => centroid["_id"]).update_one(
 			"$set" => { 
-				:adults => ex["segment"],
-				:children => ex["children"],
-				:lat => ex["lat"],
-				:lon => ex["lon"],
+				:adults => centroid["segment"],
+				:children => centroid["children"],
+				:lat => centroid["lat"],
+				:lon => centroid["lon"],
 			}
 	)
 end
