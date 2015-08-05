@@ -1,12 +1,11 @@
 #We are going to use the market as a feature in our segmentation algorithm
-#As I consider that the markets may be are affected by It's position=> [], I will use the coordinates as features
-#If you don't think so=> [], may be you should code with indexes(1=> [],2=> [],3...) each market
+#As I consider that the markets may be are affected by It's position, I will use the coordinates as features
+#If you don't think so, may be you should code with indexes(1,2,3...) each market
 #You must install the mongodb driver for ruby to have this code working: 
 #https://github.com/mongodb/mongo-ruby-driver/wiki/Tutorial
 #https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
 #(If you have problem installing the gem of mongo try: gem update --system 2.3.0)
 #For problems with bson_ext in windows: http://stackoverflow.com/questions/26092541/windows-rails-error-installing-bson-ext
-#Install Google maps API https://developers.google.com/api-client-library/ruby/apis/coordinate/v1
 
 require 'mongo'
 require 'json'
