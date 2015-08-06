@@ -16,7 +16,7 @@ File.open("web/countries.js", "w") do |f|
 		f.puts("{")
 		f.puts('"lat":' + row[0].to_s + ",")
 		f.puts('"lon":' + row[1].to_s + ",")
-		f.puts('"name":' + row[2].to_s)
+		f.puts('"name":"' + row[2].to_s+'"')
 		f.puts("},")
 	end
 	f.puts("];")
@@ -47,7 +47,7 @@ File.open("web/tops.js", "w") do |f|
 	f.puts("var tops = [")
 	CSV.foreach('top.csv') do |row|
 		if last_segment == nil
-			f.puts('"segment":' + row[0].to_s + ",")
+			f.puts('{"segment":' + row[0].to_s + ",")
 			f.puts('"top": [')
 			f.puts("{")
 			f.puts('"code": "' + row[1].to_s + '",')
@@ -60,9 +60,9 @@ File.open("web/tops.js", "w") do |f|
 			f.puts('"count": "' + row[2].to_s + '"')
 			f.puts("},")
 		else
-			f.puts('],')
+			f.puts(']},')
 			ast_segment = nil
-			f.puts('"segment":' + row[0].to_s + ",")
+			f.puts('{"segment":' + row[0].to_s + ",")
 			f.puts('"top": [')
 			f.puts("{")
 			f.puts('"code": "' + row[1].to_s + '",')
@@ -70,6 +70,26 @@ File.open("web/tops.js", "w") do |f|
 			f.puts("},")
 			last_segment = row[0]
 		end
+	end
+	f.puts("]}];")
+end
+
+#Fourth fill the centroids
+#Get the initial centroids values and store in a Javascript the centroids values for each segment
+centroids = []
+mongo_client[:centroids].find().each do |centroid|
+	centroids.push(centroid)
+end
+File.open("web/centroids.js", "w") do |f|
+	f.puts("var centroids = [")
+	centroids.each do |row|
+		f.puts('{')
+		f.puts('"segment":' + row["segment"].to_s + ",")
+		f.puts('"adults":' + row["adults"].to_s + ",")
+		f.puts('"children":' + row["children"].to_s + ",")
+		f.puts('"lat":' + row["lat"].to_s + ",")
+		f.puts('"lon":' + row["lon"].to_s + ",")
+		f.puts('},')
 	end
 	f.puts("];")
 end

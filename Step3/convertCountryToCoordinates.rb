@@ -51,7 +51,7 @@ end
 
 #Export present countries
 countries_found.sort!{ |a,b| a[2] <=> b[2]}
-File.open("countriesPresent.txt", "w") do |f|
+File.open("countriesPresent.csv", "w") do |f|
 	countries_found.each do |c|
 		f.puts(c[0].to_s + "," + c[1].to_s + "," + c[2].to_s)
 	end

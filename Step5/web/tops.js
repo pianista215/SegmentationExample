@@ -1,19 +1,19 @@
 var tops = [
-"segment":1,
+{"segment":1,
 "top": [
 {
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":2,
+]},
+{"segment":2,
 "top": [
 {
 "code": "VIPAIRSEA",
 "count": "1"
 },
-],
-"segment":3,
+]},
+{"segment":3,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -35,8 +35,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":4,
+]},
+{"segment":4,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -50,8 +50,8 @@ var tops = [
 "code": "LOSEX",
 "count": "1"
 },
-],
-"segment":5,
+]},
+{"segment":5,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -133,8 +133,8 @@ var tops = [
 "code": "MULTIAATDD",
 "count": "1"
 },
-],
-"segment":6,
+]},
+{"segment":6,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -196,8 +196,8 @@ var tops = [
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":7,
+]},
+{"segment":7,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -211,8 +211,8 @@ var tops = [
 "code": "LINEWYOR",
 "count": "1"
 },
-],
-"segment":8,
+]},
+{"segment":8,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -250,8 +250,8 @@ var tops = [
 "code": "HARBOR",
 "count": "1"
 },
-],
-"segment":9,
+]},
+{"segment":9,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -261,8 +261,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":10,
+]},
+{"segment":10,
 "top": [
 {
 "code": "NYSKYRIDE",
@@ -276,8 +276,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":11,
+]},
+{"segment":11,
 "top": [
 {
 "code": "LIBIG",
@@ -299,8 +299,8 @@ var tops = [
 "code": "NYSKYRIDE",
 "count": "1"
 },
-],
-"segment":12,
+]},
+{"segment":12,
 "top": [
 {
 "code": "LIBIG",
@@ -354,8 +354,8 @@ var tops = [
 "code": "SUNDBRUNCH",
 "count": "1"
 },
-],
-"segment":13,
+]},
+{"segment":13,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -365,8 +365,8 @@ var tops = [
 "code": "NYCEATPLAY",
 "count": "1"
 },
-],
-"segment":14,
+]},
+{"segment":14,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -396,8 +396,8 @@ var tops = [
 "code": "SUNDBRUNCH",
 "count": "1"
 },
-],
-"segment":15,
+]},
+{"segment":15,
 "top": [
 {
 "code": "ALLTOWN",
@@ -431,8 +431,8 @@ var tops = [
 "code": "BOSDAYTR",
 "count": "1"
 },
-],
-"segment":16,
+]},
+{"segment":16,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -454,8 +454,8 @@ var tops = [
 "code": "WATERTAXI",
 "count": "1"
 },
-],
-"segment":17,
+]},
+{"segment":17,
 "top": [
 {
 "code": "HEROES",
@@ -469,8 +469,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":18,
+]},
+{"segment":18,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -520,8 +520,8 @@ var tops = [
 "code": "PRIVABROOK",
 "count": "1"
 },
-],
-"segment":19,
+]},
+{"segment":19,
 "top": [
 {
 "code": "FREESTYLNY",
@@ -535,8 +535,8 @@ var tops = [
 "code": "EMPIREOBS",
 "count": "2"
 },
-],
-"segment":20,
+]},
+{"segment":20,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -578,8 +578,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":21,
+]},
+{"segment":21,
 "top": [
 {
 "code": "HEROES",
@@ -597,8 +597,8 @@ var tops = [
 "code": "NYSKYLINE",
 "count": "1"
 },
-],
-"segment":22,
+]},
+{"segment":22,
 "top": [
 {
 "code": "MOMANY",
@@ -608,8 +608,8 @@ var tops = [
 "code": "HARLSUNDAY",
 "count": "1"
 },
-],
-"segment":23,
+]},
+{"segment":23,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -631,8 +631,8 @@ var tops = [
 "code": "NYCPHANTOM",
 "count": "1"
 },
-],
-"segment":24,
+]},
+{"segment":24,
 "top": [
 {
 "code": "911MUSEUM",
@@ -642,8 +642,8 @@ var tops = [
 "code": "NYCMAMMA",
 "count": "1"
 },
-],
-"segment":25,
+]},
+{"segment":25,
 "top": [
 {
 "code": "ALLTOWN",
@@ -665,8 +665,8 @@ var tops = [
 "code": "VIPAIRSEA",
 "count": "1"
 },
-],
-"segment":26,
+]},
+{"segment":26,
 "top": [
 {
 "code": "NYCEXPLORE",
@@ -720,15 +720,15 @@ var tops = [
 "code": "WORLD",
 "count": "1"
 },
-],
-"segment":27,
+]},
+{"segment":27,
 "top": [
 {
 "code": "EMPIREOBS",
 "count": "2"
 },
-],
-"segment":28,
+]},
+{"segment":28,
 "top": [
 {
 "code": "ALLTOUR",
@@ -798,8 +798,8 @@ var tops = [
 "code": "911GROUND",
 "count": "1"
 },
-],
-"segment":29,
+]},
+{"segment":29,
 "top": [
 {
 "code": "HEROES",
@@ -837,8 +837,8 @@ var tops = [
 "code": "GOSSIP",
 "count": "1"
 },
-],
-"segment":30,
+]},
+{"segment":30,
 "top": [
 {
 "code": "HARLSUNDAY",
@@ -856,8 +856,8 @@ var tops = [
 "code": "TOPOF",
 "count": "1"
 },
-],
-"segment":31,
+]},
+{"segment":31,
 "top": [
 {
 "code": "HEROES",
@@ -907,8 +907,8 @@ var tops = [
 "code": "NYCBIKESIG",
 "count": "1"
 },
-],
-"segment":32,
+]},
+{"segment":32,
 "top": [
 {
 "code": "MOMANY",
@@ -938,8 +938,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":33,
+]},
+{"segment":33,
 "top": [
 {
 "code": "LIBIG",
@@ -953,15 +953,15 @@ var tops = [
 "code": "CPARKBIKE",
 "count": "1"
 },
-],
-"segment":34,
+]},
+{"segment":34,
 "top": [
 {
 "code": "EMPIREOBS",
 "count": "2"
 },
-],
-"segment":35,
+]},
+{"segment":35,
 "top": [
 {
 "code": "MOMANY",
@@ -1115,8 +1115,8 @@ var tops = [
 "code": "FULLISLAND",
 "count": "1"
 },
-],
-"segment":36,
+]},
+{"segment":36,
 "top": [
 {
 "code": "MOMANY",
@@ -1382,8 +1382,8 @@ var tops = [
 "code": "ONLOCATION",
 "count": "1"
 },
-],
-"segment":37,
+]},
+{"segment":37,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -1401,8 +1401,8 @@ var tops = [
 "code": "VIPAIRSEA",
 "count": "1"
 },
-],
-"segment":38,
+]},
+{"segment":38,
 "top": [
 {
 "code": "MOMANY",
@@ -1420,8 +1420,8 @@ var tops = [
 "code": "ALLTOUR",
 "count": "2"
 },
-],
-"segment":39,
+]},
+{"segment":39,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -1519,8 +1519,8 @@ var tops = [
 "code": "NYCEXPLORE",
 "count": "1"
 },
-],
-"segment":40,
+]},
+{"segment":40,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -1558,8 +1558,8 @@ var tops = [
 "code": "NYBRONXHOP",
 "count": "1"
 },
-],
-"segment":41,
+]},
+{"segment":41,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -1577,8 +1577,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":42,
+]},
+{"segment":42,
 "top": [
 {
 "code": "LIBIG",
@@ -1824,8 +1824,8 @@ var tops = [
 "code": "CHINATOWNH",
 "count": "1"
 },
-],
-"segment":43,
+]},
+{"segment":43,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -1855,8 +1855,8 @@ var tops = [
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":44,
+]},
+{"segment":44,
 "top": [
 {
 "code": "CPARKHORSE",
@@ -1886,8 +1886,8 @@ var tops = [
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":45,
+]},
+{"segment":45,
 "top": [
 {
 "code": "MOMANY",
@@ -2001,15 +2001,15 @@ var tops = [
 "code": "ALLTOUR",
 "count": "1"
 },
-],
-"segment":46,
+]},
+{"segment":46,
 "top": [
 {
 "code": "EMPIREOBS",
 "count": "1"
 },
-],
-"segment":47,
+]},
+{"segment":47,
 "top": [
 {
 "code": "NYCEATPLAY",
@@ -2035,8 +2035,8 @@ var tops = [
 "code": "LINEWYOR",
 "count": "1"
 },
-],
-"segment":48,
+]},
+{"segment":48,
 "top": [
 {
 "code": "NYCMAMMA",
@@ -2102,8 +2102,8 @@ var tops = [
 "code": "MADAMENYC",
 "count": "1"
 },
-],
-"segment":49,
+]},
+{"segment":49,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -2113,8 +2113,8 @@ var tops = [
 "code": "NYCWASHING",
 "count": "1"
 },
-],
-"segment":50,
+]},
+{"segment":50,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -2220,8 +2220,8 @@ var tops = [
 "code": "NYCSPIRIT",
 "count": "1"
 },
-],
-"segment":51,
+]},
+{"segment":51,
 "top": [
 {
 "code": "NYCEATPLAY",
@@ -2243,8 +2243,8 @@ var tops = [
 "code": "LINEWYOR",
 "count": "1"
 },
-],
-"segment":52,
+]},
+{"segment":52,
 "top": [
 {
 "code": "NYSKYRIDE",
@@ -2258,8 +2258,8 @@ var tops = [
 "code": "MADAMENYC",
 "count": "1"
 },
-],
-"segment":53,
+]},
+{"segment":53,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -2273,8 +2273,8 @@ var tops = [
 "code": "NYCEXPLORE",
 "count": "1"
 },
-],
-"segment":54,
+]},
+{"segment":54,
 "top": [
 {
 "code": "LIBIG",
@@ -2288,8 +2288,8 @@ var tops = [
 "code": "ALLTOUR",
 "count": "1"
 },
-],
-"segment":55,
+]},
+{"segment":55,
 "top": [
 {
 "code": "NYCCHICA",
@@ -2343,8 +2343,8 @@ var tops = [
 "code": "WORLD",
 "count": "1"
 },
-],
-"segment":56,
+]},
+{"segment":56,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -2370,8 +2370,8 @@ var tops = [
 "code": "MANHPRIVA",
 "count": "1"
 },
-],
-"segment":57,
+]},
+{"segment":57,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -2397,8 +2397,8 @@ var tops = [
 "code": "NYCEXPLORE",
 "count": "1"
 },
-],
-"segment":58,
+]},
+{"segment":58,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -2576,8 +2576,8 @@ var tops = [
 "code": "METROART",
 "count": "1"
 },
-],
-"segment":59,
+]},
+{"segment":59,
 "top": [
 {
 "code": "NYCTHETOUR",
@@ -2603,8 +2603,8 @@ var tops = [
 "code": "NYCKNICKS",
 "count": "1"
 },
-],
-"segment":60,
+]},
+{"segment":60,
 "top": [
 {
 "code": "MOMANY",
@@ -2618,8 +2618,8 @@ var tops = [
 "code": "NYSKYRIDE",
 "count": "1"
 },
-],
-"segment":61,
+]},
+{"segment":61,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -2681,8 +2681,8 @@ var tops = [
 "code": "NYCTHETOUR",
 "count": "1"
 },
-],
-"segment":62,
+]},
+{"segment":62,
 "top": [
 {
 "code": "WORLD",
@@ -2692,8 +2692,8 @@ var tops = [
 "code": "VIPAIRSEA",
 "count": "1"
 },
-],
-"segment":63,
+]},
+{"segment":63,
 "top": [
 {
 "code": "NYCMAMMA",
@@ -2703,15 +2703,15 @@ var tops = [
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":64,
+]},
+{"segment":64,
 "top": [
 {
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":65,
+]},
+{"segment":65,
 "top": [
 {
 "code": "LIBIG",
@@ -2721,8 +2721,8 @@ var tops = [
 "code": "SKYRIDECOM",
 "count": "1"
 },
-],
-"segment":66,
+]},
+{"segment":66,
 "top": [
 {
 "code": "NYCEXPLORE",
@@ -2736,8 +2736,8 @@ var tops = [
 "code": "NYCNIAGARA",
 "count": "1"
 },
-],
-"segment":67,
+]},
+{"segment":67,
 "top": [
 {
 "code": "MOMANY",
@@ -2747,8 +2747,8 @@ var tops = [
 "code": "EMPIREOBS",
 "count": "1"
 },
-],
-"segment":68,
+]},
+{"segment":68,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -2766,8 +2766,8 @@ var tops = [
 "code": "SPDIN",
 "count": "1"
 },
-],
-"segment":69,
+]},
+{"segment":69,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -2889,8 +2889,8 @@ var tops = [
 "code": "TOPOF",
 "count": "1"
 },
-],
-"segment":70,
+]},
+{"segment":70,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -2904,15 +2904,15 @@ var tops = [
 "code": "ALLTOUR",
 "count": "1"
 },
-],
-"segment":71,
+]},
+{"segment":71,
 "top": [
 {
 "code": "LIBIG",
 "count": "12"
 },
-],
-"segment":72,
+]},
+{"segment":72,
 "top": [
 {
 "code": "NYCTHETOUR",
@@ -2934,8 +2934,8 @@ var tops = [
 "code": "VIPAIRSEA",
 "count": "1"
 },
-],
-"segment":73,
+]},
+{"segment":73,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -3025,8 +3025,8 @@ var tops = [
 "code": "ALLTOUR",
 "count": "1"
 },
-],
-"segment":74,
+]},
+{"segment":74,
 "top": [
 {
 "code": "LIBIG",
@@ -3036,8 +3036,8 @@ var tops = [
 "code": "NYCJERSEY",
 "count": "1"
 },
-],
-"segment":75,
+]},
+{"segment":75,
 "top": [
 {
 "code": "LIBIG",
@@ -3047,8 +3047,8 @@ var tops = [
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":76,
+]},
+{"segment":76,
 "top": [
 {
 "code": "LIBIG",
@@ -3110,15 +3110,15 @@ var tops = [
 "code": "NIGHTOTOWN",
 "count": "1"
 },
-],
-"segment":77,
+]},
+{"segment":77,
 "top": [
 {
 "code": "HARLSUNDAY",
 "count": "1"
 },
-],
-"segment":78,
+]},
+{"segment":78,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -3204,15 +3204,15 @@ var tops = [
 "code": "NYCJERSEY",
 "count": "1"
 },
-],
-"segment":79,
+]},
+{"segment":79,
 "top": [
 {
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":80,
+]},
+{"segment":80,
 "top": [
 {
 "code": "WORLD",
@@ -3230,8 +3230,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":81,
+]},
+{"segment":81,
 "top": [
 {
 "code": "LIBIG",
@@ -3305,8 +3305,8 @@ var tops = [
 "code": "VIPAIRSEA",
 "count": "1"
 },
-],
-"segment":82,
+]},
+{"segment":82,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -3368,8 +3368,8 @@ var tops = [
 "code": "NYCAMERMUS",
 "count": "1"
 },
-],
-"segment":83,
+]},
+{"segment":83,
 "top": [
 {
 "code": "MOMANY",
@@ -3387,8 +3387,8 @@ var tops = [
 "code": "NIGHTOTOWN",
 "count": "1"
 },
-],
-"segment":84,
+]},
+{"segment":84,
 "top": [
 {
 "code": "LESMIRESAB",
@@ -3410,8 +3410,8 @@ var tops = [
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":85,
+]},
+{"segment":85,
 "top": [
 {
 "code": "ALLTOUR",
@@ -3449,8 +3449,8 @@ var tops = [
 "code": "ESCOTMULTI",
 "count": "1"
 },
-],
-"segment":86,
+]},
+{"segment":86,
 "top": [
 {
 "code": "MADAMENYC",
@@ -3484,8 +3484,8 @@ var tops = [
 "code": "VIPAIRSEA",
 "count": "1"
 },
-],
-"segment":87,
+]},
+{"segment":87,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -3523,8 +3523,8 @@ var tops = [
 "code": "ALLTOUR",
 "count": "1"
 },
-],
-"segment":88,
+]},
+{"segment":88,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -3542,8 +3542,8 @@ var tops = [
 "code": "VIPAATDDMT",
 "count": "1"
 },
-],
-"segment":89,
+]},
+{"segment":89,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -3669,8 +3669,8 @@ var tops = [
 "code": "NYCNIAGARA",
 "count": "1"
 },
-],
-"segment":90,
+]},
+{"segment":90,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -3680,8 +3680,8 @@ var tops = [
 "code": "NYCPHANTOM",
 "count": "1"
 },
-],
-"segment":91,
+]},
+{"segment":91,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -3839,8 +3839,8 @@ var tops = [
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":92,
+]},
+{"segment":92,
 "top": [
 {
 "code": "NYCEATPLAY",
@@ -3882,8 +3882,8 @@ var tops = [
 "code": "NYCJERSEY",
 "count": "1"
 },
-],
-"segment":93,
+]},
+{"segment":93,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -4049,8 +4049,8 @@ var tops = [
 "code": "FREESTYLNY",
 "count": "1"
 },
-],
-"segment":94,
+]},
+{"segment":94,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -4088,15 +4088,15 @@ var tops = [
 "code": "2HRSEMIHAR",
 "count": "1"
 },
-],
-"segment":95,
+]},
+{"segment":95,
 "top": [
 {
 "code": "NYCPHANTOM",
 "count": "1"
 },
-],
-"segment":96,
+]},
+{"segment":96,
 "top": [
 {
 "code": "MOMANY",
@@ -4162,8 +4162,8 @@ var tops = [
 "code": "WATERTAXI",
 "count": "1"
 },
-],
-"segment":97,
+]},
+{"segment":97,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -4241,8 +4241,8 @@ var tops = [
 "code": "WORLD",
 "count": "1"
 },
-],
-"segment":98,
+]},
+{"segment":98,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -4268,8 +4268,8 @@ var tops = [
 "code": "SUNDBRUNCH",
 "count": "1"
 },
-],
-"segment":99,
+]},
+{"segment":99,
 "top": [
 {
 "code": "LIBIG",
@@ -4651,22 +4651,22 @@ var tops = [
 "code": "NYSUPERTOU",
 "count": "1"
 },
-],
-"segment":100,
+]},
+{"segment":100,
 "top": [
 {
 "code": "LESMIRESAB",
 "count": "1"
 },
-],
-"segment":101,
+]},
+{"segment":101,
 "top": [
 {
 "code": "EMPIREOBS",
 "count": "1"
 },
-],
-"segment":102,
+]},
+{"segment":102,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -4696,15 +4696,15 @@ var tops = [
 "code": "911MUSEUM",
 "count": "1"
 },
-],
-"segment":103,
+]},
+{"segment":103,
 "top": [
 {
 "code": "EMPIREOBS",
 "count": "2"
 },
-],
-"segment":104,
+]},
+{"segment":104,
 "top": [
 {
 "code": "LIBIG",
@@ -4714,8 +4714,8 @@ var tops = [
 "code": "ALLTOUR",
 "count": "3"
 },
-],
-"segment":105,
+]},
+{"segment":105,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -4729,8 +4729,8 @@ var tops = [
 "code": "ONLOCATION",
 "count": "1"
 },
-],
-"segment":106,
+]},
+{"segment":106,
 "top": [
 {
 "code": "NYCCHICA",
@@ -4812,8 +4812,8 @@ var tops = [
 "code": "VIPAIRSEA",
 "count": "1"
 },
-],
-"segment":107,
+]},
+{"segment":107,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -4983,8 +4983,8 @@ var tops = [
 "code": "2HRSEMIHAR",
 "count": "1"
 },
-],
-"segment":108,
+]},
+{"segment":108,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -5126,8 +5126,8 @@ var tops = [
 "code": "NYCWICKED",
 "count": "1"
 },
-],
-"segment":109,
+]},
+{"segment":109,
 "top": [
 {
 "code": "ALLTOUR",
@@ -5197,8 +5197,8 @@ var tops = [
 "code": "911MUSEUM",
 "count": "1"
 },
-],
-"segment":110,
+]},
+{"segment":110,
 "top": [
 {
 "code": "DOWNTOUR",
@@ -5268,8 +5268,8 @@ var tops = [
 "code": "EMPIREOBS",
 "count": "1"
 },
-],
-"segment":111,
+]},
+{"segment":111,
 "top": [
 {
 "code": "LIBIG",
@@ -5291,8 +5291,8 @@ var tops = [
 "code": "NYCEXPLORE",
 "count": "1"
 },
-],
-"segment":112,
+]},
+{"segment":112,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -5302,8 +5302,8 @@ var tops = [
 "code": "GOSSIP",
 "count": "1"
 },
-],
-"segment":113,
+]},
+{"segment":113,
 "top": [
 {
 "code": "NYCSPIRIT",
@@ -5349,15 +5349,15 @@ var tops = [
 "code": "VIPAATDDBT",
 "count": "1"
 },
-],
-"segment":114,
+]},
+{"segment":114,
 "top": [
 {
 "code": "FASHIONONF",
 "count": "1"
 },
-],
-"segment":115,
+]},
+{"segment":115,
 "top": [
 {
 "code": "NYCCHICA",
@@ -5795,8 +5795,8 @@ var tops = [
 "code": "TSQHARDRCK",
 "count": "1"
 },
-],
-"segment":116,
+]},
+{"segment":116,
 "top": [
 {
 "code": "LINEWYOR",
@@ -5810,8 +5810,8 @@ var tops = [
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":117,
+]},
+{"segment":117,
 "top": [
 {
 "code": "LIBIG",
@@ -5837,8 +5837,8 @@ var tops = [
 "code": "NYSKYLINE",
 "count": "1"
 },
-],
-"segment":118,
+]},
+{"segment":118,
 "top": [
 {
 "code": "LIBIG",
@@ -5956,8 +5956,8 @@ var tops = [
 "code": "NYCONTRAST",
 "count": "1"
 },
-],
-"segment":119,
+]},
+{"segment":119,
 "top": [
 {
 "code": "NYCPHANTOM",
@@ -5967,8 +5967,8 @@ var tops = [
 "code": "NIGHTOTOWN",
 "count": "1"
 },
-],
-"segment":120,
+]},
+{"segment":120,
 "top": [
 {
 "code": "NYCTHETOUR",
@@ -5986,8 +5986,8 @@ var tops = [
 "code": "HARLSUNDAY",
 "count": "1"
 },
-],
-"segment":121,
+]},
+{"segment":121,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -6021,8 +6021,8 @@ var tops = [
 "code": "NYCTHETOUR",
 "count": "1"
 },
-],
-"segment":122,
+]},
+{"segment":122,
 "top": [
 {
 "code": "MOMANY",
@@ -6080,8 +6080,8 @@ var tops = [
 "code": "ALLTOUR",
 "count": "1"
 },
-],
-"segment":123,
+]},
+{"segment":123,
 "top": [
 {
 "code": "SOULFOODJA",
@@ -6095,8 +6095,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":124,
+]},
+{"segment":124,
 "top": [
 {
 "code": "WATERTAXI",
@@ -6106,8 +6106,8 @@ var tops = [
 "code": "NYCJERSEY",
 "count": "1"
 },
-],
-"segment":125,
+]},
+{"segment":125,
 "top": [
 {
 "code": "MOMANY",
@@ -6169,8 +6169,8 @@ var tops = [
 "code": "BOSDAYTR",
 "count": "1"
 },
-],
-"segment":126,
+]},
+{"segment":126,
 "top": [
 {
 "code": "NYCCHICA",
@@ -6312,8 +6312,8 @@ var tops = [
 "code": "TSQHARDRCK",
 "count": "1"
 },
-],
-"segment":127,
+]},
+{"segment":127,
 "top": [
 {
 "code": "NYCTHETOUR",
@@ -6387,8 +6387,8 @@ var tops = [
 "code": "NYSKYLINE",
 "count": "1"
 },
-],
-"segment":128,
+]},
+{"segment":128,
 "top": [
 {
 "code": "NYCWASHING",
@@ -6398,8 +6398,8 @@ var tops = [
 "code": "EMPIREOBS",
 "count": "1"
 },
-],
-"segment":129,
+]},
+{"segment":129,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -6593,8 +6593,8 @@ var tops = [
 "code": "NIGHTOTOWN",
 "count": "1"
 },
-],
-"segment":130,
+]},
+{"segment":130,
 "top": [
 {
 "code": "NYCMAMMA",
@@ -6604,8 +6604,8 @@ var tops = [
 "code": "CLIPLIGHTS",
 "count": "1"
 },
-],
-"segment":131,
+]},
+{"segment":131,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -6675,8 +6675,8 @@ var tops = [
 "code": "LOSEX",
 "count": "1"
 },
-],
-"segment":132,
+]},
+{"segment":132,
 "top": [
 {
 "code": "NYCLION",
@@ -6698,8 +6698,8 @@ var tops = [
 "code": "WATERTAXI",
 "count": "1"
 },
-],
-"segment":133,
+]},
+{"segment":133,
 "top": [
 {
 "code": "NYCCHICA",
@@ -6733,8 +6733,8 @@ var tops = [
 "code": "ESCOTMULTI",
 "count": "1"
 },
-],
-"segment":134,
+]},
+{"segment":134,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -6784,8 +6784,8 @@ var tops = [
 "code": "NYTHERIDE",
 "count": "1"
 },
-],
-"segment":135,
+]},
+{"segment":135,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -6807,8 +6807,8 @@ var tops = [
 "code": "LINEWYOR",
 "count": "1"
 },
-],
-"segment":136,
+]},
+{"segment":136,
 "top": [
 {
 "code": "LIBIG",
@@ -6974,8 +6974,8 @@ var tops = [
 "code": "DOWNTOUR",
 "count": "1"
 },
-],
-"segment":137,
+]},
+{"segment":137,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -6993,8 +6993,8 @@ var tops = [
 "code": "LINEWYOR",
 "count": "1"
 },
-],
-"segment":138,
+]},
+{"segment":138,
 "top": [
 {
 "code": "LIBIG",
@@ -7004,8 +7004,8 @@ var tops = [
 "code": "HARLSUNDAY",
 "count": "1"
 },
-],
-"segment":139,
+]},
+{"segment":139,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -7079,8 +7079,8 @@ var tops = [
 "code": "OTNYCTITA",
 "count": "1"
 },
-],
-"segment":140,
+]},
+{"segment":140,
 "top": [
 {
 "code": "NYCLION",
@@ -7114,8 +7114,8 @@ var tops = [
 "code": "WSHTRIP",
 "count": "1"
 },
-],
-"segment":141,
+]},
+{"segment":141,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -7261,8 +7261,8 @@ var tops = [
 "code": "NYNIGHT",
 "count": "1"
 },
-],
-"segment":142,
+]},
+{"segment":142,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -7328,8 +7328,8 @@ var tops = [
 "code": "NYCMAMMA",
 "count": "1"
 },
-],
-"segment":143,
+]},
+{"segment":143,
 "top": [
 {
 "code": "TOPOF",
@@ -7339,8 +7339,8 @@ var tops = [
 "code": "ALLTOUR",
 "count": "1"
 },
-],
-"segment":144,
+]},
+{"segment":144,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -7366,8 +7366,8 @@ var tops = [
 "code": "FREESTYLNY",
 "count": "1"
 },
-],
-"segment":145,
+]},
+{"segment":145,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -7417,8 +7417,8 @@ var tops = [
 "code": "2HRSEMIHAR",
 "count": "1"
 },
-],
-"segment":146,
+]},
+{"segment":146,
 "top": [
 {
 "code": "LIBIG",
@@ -7440,8 +7440,8 @@ var tops = [
 "code": "EMPIREOBS",
 "count": "1"
 },
-],
-"segment":147,
+]},
+{"segment":147,
 "top": [
 {
 "code": "NYCCHICA",
@@ -7691,8 +7691,8 @@ var tops = [
 "code": "LESMIRESAB",
 "count": "1"
 },
-],
-"segment":148,
+]},
+{"segment":148,
 "top": [
 {
 "code": "NYCCHICA",
@@ -7858,8 +7858,8 @@ var tops = [
 "code": "NYCLION",
 "count": "1"
 },
-],
-"segment":149,
+]},
+{"segment":149,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -8049,8 +8049,8 @@ var tops = [
 "code": "NYCROCKAGE",
 "count": "1"
 },
-],
-"segment":150,
+]},
+{"segment":150,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -8064,8 +8064,8 @@ var tops = [
 "code": "NYCSPIRIT",
 "count": "1"
 },
-],
-"segment":151,
+]},
+{"segment":151,
 "top": [
 {
 "code": "911GROUND",
@@ -8115,8 +8115,8 @@ var tops = [
 "code": "USOPEN",
 "count": "1"
 },
-],
-"segment":152,
+]},
+{"segment":152,
 "top": [
 {
 "code": "GOSSIP",
@@ -8126,8 +8126,8 @@ var tops = [
 "code": "EMPIREOBS",
 "count": "1"
 },
-],
-"segment":153,
+]},
+{"segment":153,
 "top": [
 {
 "code": "LIBIG",
@@ -8157,8 +8157,8 @@ var tops = [
 "code": "WSHTRIP",
 "count": "1"
 },
-],
-"segment":154,
+]},
+{"segment":154,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -8244,8 +8244,8 @@ var tops = [
 "code": "911MUSEUM",
 "count": "1"
 },
-],
-"segment":155,
+]},
+{"segment":155,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -8287,8 +8287,8 @@ var tops = [
 "code": "LINEWYOR",
 "count": "1"
 },
-],
-"segment":156,
+]},
+{"segment":156,
 "top": [
 {
 "code": "NYSKYRIDE",
@@ -8362,8 +8362,8 @@ var tops = [
 "code": "BOSDAYTR",
 "count": "1"
 },
-],
-"segment":157,
+]},
+{"segment":157,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -8425,8 +8425,8 @@ var tops = [
 "code": "NYCITYPASS",
 "count": "1"
 },
-],
-"segment":158,
+]},
+{"segment":158,
 "top": [
 {
 "code": "ALLTOUR",
@@ -8448,8 +8448,8 @@ var tops = [
 "code": "LIBERTYEXP",
 "count": "1"
 },
-],
-"segment":159,
+]},
+{"segment":159,
 "top": [
 {
 "code": "NYCEATPLAY",
@@ -8479,8 +8479,8 @@ var tops = [
 "code": "NYCTVMOVIE",
 "count": "1"
 },
-],
-"segment":160,
+]},
+{"segment":160,
 "top": [
 {
 "code": "NYCMAMMA",
@@ -8498,8 +8498,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":161,
+]},
+{"segment":161,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -8541,8 +8541,8 @@ var tops = [
 "code": "SEAMUSE",
 "count": "1"
 },
-],
-"segment":162,
+]},
+{"segment":162,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -8676,8 +8676,8 @@ var tops = [
 "code": "SPDIN",
 "count": "1"
 },
-],
-"segment":163,
+]},
+{"segment":163,
 "top": [
 {
 "code": "LOSEX",
@@ -8727,8 +8727,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":164,
+]},
+{"segment":164,
 "top": [
 {
 "code": "VIPAIRSEA",
@@ -8754,8 +8754,8 @@ var tops = [
 "code": "HARLSUNDAY",
 "count": "1"
 },
-],
-"segment":165,
+]},
+{"segment":165,
 "top": [
 {
 "code": "MOMANY",
@@ -8813,8 +8813,8 @@ var tops = [
 "code": "NYCONTRAST",
 "count": "1"
 },
-],
-"segment":166,
+]},
+{"segment":166,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -8956,15 +8956,15 @@ var tops = [
 "code": "FASHIONONF",
 "count": "1"
 },
-],
-"segment":167,
+]},
+{"segment":167,
 "top": [
 {
 "code": "EMPIREOBS",
 "count": "6"
 },
-],
-"segment":168,
+]},
+{"segment":168,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -9274,8 +9274,8 @@ var tops = [
 "code": "OTNYCTITA",
 "count": "1"
 },
-],
-"segment":169,
+]},
+{"segment":169,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -9289,8 +9289,8 @@ var tops = [
 "code": "HARLEMWEDN",
 "count": "1"
 },
-],
-"segment":170,
+]},
+{"segment":170,
 "top": [
 {
 "code": "MOMANY",
@@ -9412,8 +9412,8 @@ var tops = [
 "code": "LIBERTYEXP",
 "count": "1"
 },
-],
-"segment":171,
+]},
+{"segment":171,
 "top": [
 {
 "code": "LIBIG",
@@ -9435,8 +9435,8 @@ var tops = [
 "code": "FREESTYLNY",
 "count": "1"
 },
-],
-"segment":172,
+]},
+{"segment":172,
 "top": [
 {
 "code": "MOMANY",
@@ -9458,8 +9458,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":173,
+]},
+{"segment":173,
 "top": [
 {
 "code": "NYCCHICA",
@@ -9501,8 +9501,8 @@ var tops = [
 "code": "HARLSUNDAY",
 "count": "1"
 },
-],
-"segment":174,
+]},
+{"segment":174,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -9560,8 +9560,8 @@ var tops = [
 "code": "CPARKHORSE",
 "count": "1"
 },
-],
-"segment":175,
+]},
+{"segment":175,
 "top": [
 {
 "code": "NYCCHICA",
@@ -9611,8 +9611,8 @@ var tops = [
 "code": "NYCHARDRCK",
 "count": "1"
 },
-],
-"segment":176,
+]},
+{"segment":176,
 "top": [
 {
 "code": "BROKLYNT",
@@ -9634,8 +9634,8 @@ var tops = [
 "code": "ALLTOUR",
 "count": "1"
 },
-],
-"segment":177,
+]},
+{"segment":177,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -9685,8 +9685,8 @@ var tops = [
 "code": "NYCJERSEY",
 "count": "1"
 },
-],
-"segment":178,
+]},
+{"segment":178,
 "top": [
 {
 "code": "NYCCHICA",
@@ -9800,8 +9800,8 @@ var tops = [
 "code": "VIPAIRSEA",
 "count": "1"
 },
-],
-"segment":179,
+]},
+{"segment":179,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -9863,8 +9863,8 @@ var tops = [
 "code": "LOSEX",
 "count": "1"
 },
-],
-"segment":180,
+]},
+{"segment":180,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -10102,8 +10102,8 @@ var tops = [
 "code": "SHOPHOPTOP",
 "count": "1"
 },
-],
-"segment":181,
+]},
+{"segment":181,
 "top": [
 {
 "code": "MADAMENYC",
@@ -10173,8 +10173,8 @@ var tops = [
 "code": "TWILSAILS",
 "count": "1"
 },
-],
-"segment":182,
+]},
+{"segment":182,
 "top": [
 {
 "code": "LIBIG",
@@ -10184,22 +10184,22 @@ var tops = [
 "code": "HARBOR",
 "count": "1"
 },
-],
-"segment":183,
+]},
+{"segment":183,
 "top": [
 {
 "code": "ALLTOUR",
 "count": "1"
 },
-],
-"segment":184,
+]},
+{"segment":184,
 "top": [
 {
 "code": "NYCMAMMA",
 "count": "1"
 },
-],
-"segment":185,
+]},
+{"segment":185,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -10365,8 +10365,8 @@ var tops = [
 "code": "FREESTYLNY",
 "count": "1"
 },
-],
-"segment":186,
+]},
+{"segment":186,
 "top": [
 {
 "code": "LIBIG",
@@ -10464,8 +10464,8 @@ var tops = [
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":187,
+]},
+{"segment":187,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -10799,8 +10799,8 @@ var tops = [
 "code": "ALLTOWN",
 "count": "1"
 },
-],
-"segment":188,
+]},
+{"segment":188,
 "top": [
 {
 "code": "VIPAIRSEA",
@@ -10862,8 +10862,8 @@ var tops = [
 "code": "HARLSUNDAY",
 "count": "1"
 },
-],
-"segment":189,
+]},
+{"segment":189,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -10921,8 +10921,8 @@ var tops = [
 "code": "NYCNIAGARA",
 "count": "1"
 },
-],
-"segment":190,
+]},
+{"segment":190,
 "top": [
 {
 "code": "MADAMENYC",
@@ -10940,8 +10940,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":191,
+]},
+{"segment":191,
 "top": [
 {
 "code": "HARLSUNDAY",
@@ -11059,8 +11059,8 @@ var tops = [
 "code": "911GROUND",
 "count": "1"
 },
-],
-"segment":192,
+]},
+{"segment":192,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -11162,8 +11162,8 @@ var tops = [
 "code": "NYSKYLINE",
 "count": "1"
 },
-],
-"segment":193,
+]},
+{"segment":193,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -11277,8 +11277,8 @@ var tops = [
 "code": "NYSKYLINE",
 "count": "1"
 },
-],
-"segment":194,
+]},
+{"segment":194,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -11296,8 +11296,8 @@ var tops = [
 "code": "NYCONTRAST",
 "count": "1"
 },
-],
-"segment":195,
+]},
+{"segment":195,
 "top": [
 {
 "code": "2HRSEMIHAR",
@@ -11307,8 +11307,8 @@ var tops = [
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":196,
+]},
+{"segment":196,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -11338,22 +11338,22 @@ var tops = [
 "code": "WATERTAXI",
 "count": "1"
 },
-],
-"segment":197,
+]},
+{"segment":197,
 "top": [
 {
 "code": "NYCTHETOUR",
 "count": "1"
 },
-],
-"segment":198,
+]},
+{"segment":198,
 "top": [
 {
 "code": "LIBIG",
 "count": "2"
 },
-],
-"segment":199,
+]},
+{"segment":199,
 "top": [
 {
 "code": "LINEWYOR",
@@ -11383,15 +11383,15 @@ var tops = [
 "code": "ALLTOWN",
 "count": "1"
 },
-],
-"segment":200,
+]},
+{"segment":200,
 "top": [
 {
 "code": "NYCTHETOUR",
 "count": "1"
 },
-],
-"segment":201,
+]},
+{"segment":201,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -11669,8 +11669,8 @@ var tops = [
 "code": "NYCITY",
 "count": "1"
 },
-],
-"segment":202,
+]},
+{"segment":202,
 "top": [
 {
 "code": "LIBIG",
@@ -11748,8 +11748,8 @@ var tops = [
 "code": "LESMIRESAB",
 "count": "1"
 },
-],
-"segment":203,
+]},
+{"segment":203,
 "top": [
 {
 "code": "MOMANY",
@@ -11787,15 +11787,15 @@ var tops = [
 "code": "NYCHARDRCK",
 "count": "1"
 },
-],
-"segment":204,
+]},
+{"segment":204,
 "top": [
 {
 "code": "LIBIG",
 "count": "1"
 },
-],
-"segment":205,
+]},
+{"segment":205,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -11929,8 +11929,8 @@ var tops = [
 "code": "OTNYCTITA",
 "count": "1"
 },
-],
-"segment":206,
+]},
+{"segment":206,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -11968,8 +11968,8 @@ var tops = [
 "code": "WORLD",
 "count": "1"
 },
-],
-"segment":207,
+]},
+{"segment":207,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -12223,8 +12223,8 @@ var tops = [
 "code": "NYCICONS",
 "count": "1"
 },
-],
-"segment":208,
+]},
+{"segment":208,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -12310,8 +12310,8 @@ var tops = [
 "code": "NYCEATPLAY",
 "count": "1"
 },
-],
-"segment":209,
+]},
+{"segment":209,
 "top": [
 {
 "code": "NYCCHICA",
@@ -12397,8 +12397,8 @@ var tops = [
 "code": "WATERTAXI",
 "count": "1"
 },
-],
-"segment":210,
+]},
+{"segment":210,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -12420,8 +12420,8 @@ var tops = [
 "code": "MOMANY",
 "count": "1"
 },
-],
-"segment":211,
+]},
+{"segment":211,
 "top": [
 {
 "code": "NYSKYLINE",
@@ -12515,8 +12515,8 @@ var tops = [
 "code": "2HRSEMIHAR",
 "count": "1"
 },
-],
-"segment":212,
+]},
+{"segment":212,
 "top": [
 {
 "code": "NYCCHICA",
@@ -12546,8 +12546,8 @@ var tops = [
 "code": "MULTIAATDD",
 "count": "1"
 },
-],
-"segment":213,
+]},
+{"segment":213,
 "top": [
 {
 "code": "LIBIG",
@@ -12577,8 +12577,8 @@ var tops = [
 "code": "DINNERCRUI",
 "count": "1"
 },
-],
-"segment":214,
+]},
+{"segment":214,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -12664,8 +12664,8 @@ var tops = [
 "code": "FULLISLAND",
 "count": "1"
 },
-],
-"segment":215,
+]},
+{"segment":215,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -12675,8 +12675,8 @@ var tops = [
 "code": "HARLSUNDAY",
 "count": "1"
 },
-],
-"segment":216,
+]},
+{"segment":216,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -12702,8 +12702,8 @@ var tops = [
 "code": "2HRSEMIHAR",
 "count": "1"
 },
-],
-"segment":217,
+]},
+{"segment":217,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -12765,15 +12765,15 @@ var tops = [
 "code": "SUNDBRUNCH",
 "count": "1"
 },
-],
-"segment":218,
+]},
+{"segment":218,
 "top": [
 {
 "code": "LIBIG",
 "count": "2"
 },
-],
-"segment":219,
+]},
+{"segment":219,
 "top": [
 {
 "code": "MOMANY",
@@ -12879,8 +12879,8 @@ var tops = [
 "code": "HARLEMWEDN",
 "count": "1"
 },
-],
-"segment":220,
+]},
+{"segment":220,
 "top": [
 {
 "code": "HARLSUNDAY",
@@ -12898,8 +12898,8 @@ var tops = [
 "code": "SUNDBRUNCH",
 "count": "1"
 },
-],
-"segment":221,
+]},
+{"segment":221,
 "top": [
 {
 "code": "LIBIG",
@@ -12917,8 +12917,8 @@ var tops = [
 "code": "EMPIREOBS",
 "count": "1"
 },
-],
-"segment":222,
+]},
+{"segment":222,
 "top": [
 {
 "code": "LIBIG",
@@ -13004,8 +13004,8 @@ var tops = [
 "code": "MULTISUPNY",
 "count": "1"
 },
-],
-"segment":223,
+]},
+{"segment":223,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -13155,8 +13155,8 @@ var tops = [
 "code": "METROART",
 "count": "1"
 },
-],
-"segment":224,
+]},
+{"segment":224,
 "top": [
 {
 "code": "LIBIG",
@@ -13166,8 +13166,8 @@ var tops = [
 "code": "VIPAIRSEA",
 "count": "1"
 },
-],
-"segment":225,
+]},
+{"segment":225,
 "top": [
 {
 "code": "EMPIREOBS",
@@ -13277,4 +13277,4 @@ var tops = [
 "code": "FULLISLAND",
 "count": "1"
 },
-];
+]}];
