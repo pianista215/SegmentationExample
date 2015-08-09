@@ -1,3 +1,0 @@
-#Instructions
-Since this data is from a public data provider but I don't want to share its custom codes, I've made a Ruby script to convert each code into a numeric code.
-You can provide your own CSV following the format of the CSVInKeys.csv file if you want to use other data
