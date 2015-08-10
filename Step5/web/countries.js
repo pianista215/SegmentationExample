@@ -140,11 +140,6 @@ var countries = [
 "name":"Germany"
 },
 {
-"lat":36.137741,
-"lon":-5.345374,
-"name":"Gibraltar"
-},
-{
 "lat":39.074208,
 "lon":21.824312,
 "name":"Greece"
@@ -195,11 +190,6 @@ var countries = [
 "name":"Lebanon"
 },
 {
-"lat":37.0625,
-"lon":-95.677068,
-"name":"Libyan Arab Jamahiriya"
-},
-{
 "lat":49.815273,
 "lon":6.129583,
 "name":"Luxembourg"
@@ -245,11 +235,6 @@ var countries = [
 "name":"Norway"
 },
 {
-"lat":30.375321,
-"lon":69.345116,
-"name":"Pakistan"
-},
-{
 "lat":8.537981,
 "lon":-80.782127,
 "name":"Panama"
@@ -288,11 +273,6 @@ var countries = [
 "lat":45.943161,
 "lon":24.96676,
 "name":"Romania"
-},
-{
-"lat":61.52401,
-"lon":105.318756,
-"name":"Russian Federation"
 },
 {
 "lat":43.94236,
@@ -343,11 +323,6 @@ var countries = [
 "lat":38.963745,
 "lon":35.243322,
 "name":"Turkey"
-},
-{
-"lat":1.373333,
-"lon":32.290275,
-"name":"Uganda"
 },
 {
 "lat":23.424076,

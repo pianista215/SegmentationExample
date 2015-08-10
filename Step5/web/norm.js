@@ -1,9 +1,9 @@
 var norm = {};
-norm.adults_mean = 2.467233731193122;
+norm.adults_mean = 2.4745671287555964;
 norm.adults_dif = 20.0;
-norm.children_mean = 0.23194768372433347;
+norm.children_mean = 0.2399266411349048;
 norm.children_dif = 19.0;
-norm.lat_mean = 28.05314711912815;
+norm.lat_mean = 27.798456705163318;
 norm.lat_dif = 102.824667;
-norm.lon_mean = 28.05314711912815;
+norm.lon_mean = 27.798456705163318;
 norm.lon_dif = 102.824667;
