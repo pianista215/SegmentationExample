@@ -30,7 +30,7 @@
 
 		var segment = getSegment(norm_adults, norm_children, norm_lat, norm_lon); 
 		var top = getTop(segment);
-		writeTopAndwidget(top);
+		writeTop(top);
 		$('#segment').html(segment);
 	}
 
@@ -57,8 +57,8 @@
 		return tops[segment-1]; //Segments starting in 1
 	}
 
-	function writeTopAndwidget(top){
-		var str = "<tr><th>Activity Code</th><th>Count</th></tr>";
+	function writeTop(top){
+		var str = "<tr><th>Activity Description</th><th>Count</th></tr>";
 		codes = [];
 		for(var i=0;i<top.top.length;i++){
 			var curr = top.top[i];
@@ -69,17 +69,6 @@
 			codes[codes.length] = curr.code;
 		}
 		$('#top').html(str);
-		var widget = '<script type="text/javascript" src="http://wdgmul.hotelbeds.com/wdgfront/generator/widget.js" data-widget="true" data-userid="Jaalster" data-config="Jaalster_xselling_actividades" data-destinations="NYC"';
-		widget += 'data-activitycodes="';
-		for(var i=0; i < codes.length;i++){
-			widget += codes[i];
-			if(i!= codes.length-1){
-				widget += ",";
-			}
-		}
-		widget += '"';
-		widget += '></script>';
-		$('#widget').html(widget);
 	}
 
 })(jQuery);
