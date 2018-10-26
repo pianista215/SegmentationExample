@@ -1,0 +1,6 @@
+We should do this example with a different approach using Spark, or tensor flow.
+
+With Spark may be we can use MLLib in order to distribute the k-means algorithm already implemented as far as I know.
+
+With tensorflow I think is easier because you will find it very easy, also we can use a neural network using deeplearning in order to predict that
+
